@@ -1,7 +1,1 @@
----
-layout: page
-title: contact
-permalink: /contact/
----
-
-joanie.cappetta@gmail.com
+joanie dot cappetta at gmail dot com
